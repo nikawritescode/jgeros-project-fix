@@ -2,10 +2,12 @@
 
 ### პროექტის გადმოწერა 
 
-```bash
-git clone git@github.com:nikawritescode/jgeros-project-fix.git ```
+```
+git clone git@github.com:nikawritescode/jgeros-project-fix.git
+```
 
-```bash
+ინსტალაცია
+```
 npm run dev
 ```
 
