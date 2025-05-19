@@ -20,3 +20,6 @@ npm i
 ``` 
 npm run dev 
 ```
+
+
+[გაშვებული პროექტის ნახვა](https://jgerocars.absolo.dev/).
